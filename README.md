@@ -1,4 +1,4 @@
-# terminal nodejs json filter
+# Filter JSON from iconmoon.io
 
 Filter JSON from icomoon.io. Keeps and concat only the path and the name.
 
