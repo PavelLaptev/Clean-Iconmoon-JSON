@@ -22,4 +22,4 @@ This script could be run only from the folder where the project is store. Use Te
 
 **Yarn**
 
-`yarn start` or `yarn parse`
+`yarn start`
