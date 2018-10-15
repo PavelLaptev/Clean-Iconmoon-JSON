@@ -1,0 +1,93 @@
+{
+    "IcoMoonType": "selection",
+    "icons": [
+        {
+            "icon": {
+                "paths": [
+                    "M660.945 288.582l-70.191 70.191 103.517 103.579h-554.636v99.297h554.636l-103.517 103.579 70.191 70.191 223.418-223.418z"
+                ],
+                "attrs": [{}],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["iconArrowRightS"]
+            },
+            "attrs": [{}],
+            "properties": {
+                "order": 140,
+                "id": 6,
+                "name": "iconArrowRightS",
+                "prevSize": 32,
+                "code": 59648
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 0
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M243.216 209.827l302.111 302.173-302.111 302.173 70.191 70.191 372.364-372.364-372.364-372.364z",
+                    "M785.067 139.636h99.297v744.727h-99.297v-744.727z"
+                ],
+                "attrs": [{}, {}],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["iconCheveronLastRightS"]
+            },
+            "attrs": [{}, {}],
+            "properties": {
+                "order": 145,
+                "id": 5,
+                "name": "iconCheveronLastRightS",
+                "prevSize": 32,
+                "code": 59649
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 1
+        }
+    ],
+    "height": 1024,
+    "metadata": { "name": "FFicons" },
+    "preferences": {
+        "showGlyphs": true,
+        "showQuickUse": true,
+        "showQuickUse2": true,
+        "showSVGs": true,
+        "fontPref": {
+            "prefix": "icon-",
+            "metadata": {
+                "fontFamily": "FFicons",
+                "majorVersion": 1,
+                "minorVersion": 0
+            },
+            "metrics": { "emSize": 1024, "baseline": 6.25, "whitespace": 50 },
+            "embed": false,
+            "autoHost": false,
+            "showSelector": true,
+            "selector": "i",
+            "showMetadata": false,
+            "showMetrics": false,
+            "showVersion": false,
+            "noie8": true,
+            "ie7": false
+        },
+        "imagePref": {
+            "prefix": "icon-",
+            "png": true,
+            "useClassSelector": true,
+            "color": 0,
+            "bgColor": 16777215,
+            "classSelector": ".icon",
+            "name": "icomoon"
+        },
+        "historySize": 50,
+        "showCodes": true,
+        "gridSize": 16,
+        "quickUsageToken": {
+            "UntitledProject": "MjYyZTA3ODAzZmIzOTI2ZjA3NjJjMjJlNjdiYmZiZGQjMSMxNTM1NjU1NTUwIyMj"
+        }
+    }
+}
