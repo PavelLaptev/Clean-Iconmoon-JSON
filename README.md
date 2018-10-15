@@ -12,7 +12,7 @@ Choose a folder when you want to copy this package
 
 Clone the repasitory
 
-`git clone https://github.com/PavelLaptev/terminal-nodejs-json-filter.git`
+`git clone https://github.com/PavelLaptev/Clean-Iconmoon-JSON.git`
 
 This script could be run only from the folder where the project is store. Use Terminal window in VS code or use usual MacOS terminal.
 
