@@ -6,7 +6,7 @@ Filter JSON from icomoon.io. Keeps and concat only the path and the name.
 
 ## Installation
 
-Choose a folder when you want to copy this package
+Choose a folder where you want to copy this package
 
 `cd your-folder`
 
