@@ -13,6 +13,7 @@ Choose a folder where you want to copy this package
 Clone the repasitory
 
 `git clone https://github.com/PavelLaptev/Clean-Iconmoon-JSON.git`
+`npm i`
 
 This script could be run only from the folder where the project is store. Use Terminal window in VS code or use usual MacOS terminal.
 
